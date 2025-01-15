@@ -1,0 +1,1 @@
+gunzip -c ../MCB185/data/dictionary.gz | grep "r" | grep -v "[^oaziacnr]" | grep -E ".{4,}"
