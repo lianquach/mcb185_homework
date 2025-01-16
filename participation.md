@@ -34,6 +34,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 3 points
 - Week 2
 	+ Attended class Tuesday
+	+ Attended class Thursday 
+	+ Introduced myself to Michelle Z
 - Week 3
 - Week 4
 - Week 5
