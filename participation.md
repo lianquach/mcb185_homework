@@ -36,6 +36,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday
 	+ Attended class Thursday 
 	+ Introduced myself to Michelle Z + Christine on Thursday
+	+ Asked a question about Markdown functions to Christine
 - Week 3
 - Week 4
 - Week 5
