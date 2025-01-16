@@ -1,10 +1,10 @@
 # Favorite Things #
 
 ## **Favorite Foods** ##
-	+ Pasta
-	+ Ramen
-	+ Poke
+	- Pasta
+	- Ramen
+	- Poke
 	
 ## _Favorite Hobbies_ ##
-	+ sudoku
-	+ jigsaw puzzles 
+	= sudoku
+	= jigsaw puzzles 
