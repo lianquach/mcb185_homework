@@ -1,6 +1,6 @@
 # Favorite Things #
 
-## **Favorite Foods** ##
+## _Favorite Foods_ ##
 - Pasta
 - Ramen
 - Poke
@@ -9,3 +9,9 @@
 + sudoku
 + jigsaw puzzles 
 + hiking
+
+## _Favorite Animals_ ##
+1. Cats
+2. Lions
+3. Penguins 
+4. Dogs 
