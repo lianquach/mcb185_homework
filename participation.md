@@ -38,6 +38,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Introduced myself to Michelle Z + Christine on Thursday
 	+ Asked a question about Markdown functions to Christine
 	+ Helped Christine delete a file off Github through the Unix CLI
+	+ Total = 5 points
 - Week 3
 - Week 4
 - Week 5
