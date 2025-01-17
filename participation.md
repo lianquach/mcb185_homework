@@ -31,12 +31,13 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday
 	+ Attended class Thursday 
 	+ Introduced myself to Karen N
-	+ Total 3 points
+	+ Total = 3 points
 - Week 2
 	+ Attended class Tuesday
 	+ Attended class Thursday 
 	+ Introduced myself to Michelle Z + Christine on Thursday
 	+ Asked a question about Markdown functions to Christine
+	+ Helped Christine delete a file off Github through the Unix CLI
 - Week 3
 - Week 4
 - Week 5
