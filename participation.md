@@ -43,7 +43,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday
 	+ Introduced myself to Emma
 	+ Assessed in class 
-	+ Total = 
+	+ Total
 - Week 4
 - Week 5
 - Week 6
