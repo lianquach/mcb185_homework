@@ -42,8 +42,10 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 3
 	+ Attended class Tuesday
 	+ Introduced myself to Emma
-	+ Assessed in class 
-	+ Total =
+	+ Assessed in class for Unit 1
+	+ Attended class Thursday 
+	+ Collabed with a classmate to solve the Shannon entropy problem
+	+ Total = 5 points 
 - Week 4
 - Week 5
 - Week 6
