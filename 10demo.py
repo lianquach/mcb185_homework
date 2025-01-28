@@ -21,3 +21,10 @@ def hypotenuse(a, b):
 	return c
 x = hypotenuse(3,4)
 print(x)
+
+import random 
+while True: 
+	a = random.randint(1, 10)
+	b = random. randint(1, 10)
+	c = hypotenuse(a, b)
+	

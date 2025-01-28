@@ -13,7 +13,7 @@ def char_to_prob(c):
 def prob_to_char(p):
 	phred_score = -10*math.log10(p)
 	ascii_value = phred_score + 33
-	character = chr(math.floor(ascii_value))
+	character = chr(int(ascii_value))
 	return character
 	
 

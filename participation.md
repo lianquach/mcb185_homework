@@ -47,6 +47,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Collabed with a classmate to solve the Shannon entropy problem
 	+ **Total = 5 points** 
 - Week 4
+	+ Attended class Tuesday 
 - Week 5
 - Week 6
 - Week 7
