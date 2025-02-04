@@ -42,15 +42,18 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 3
 	+ Attended class Tuesday
 	+ Introduced myself to Emma
-	+ Assessed in class for Unit 1
+	+ Assessed in class for Unit 0
 	+ Attended class Thursday 
 	+ Collabed with a classmate to solve the Shannon entropy problem
 	+ **Total = 5 points** 
 - Week 4
 	+ Attended class Tuesday 
 	+ Helped a classmate troubleshoot their oligo.py program
-	+ **Total = 2 points**
+	+ Attended class Thursday
+	+ **Total = 3 points**
 - Week 5
+	+ Attended class Tuesday
+	+ Assessed for Unit 1 with Michelle 
 - Week 6
 - Week 7
 - Week 8
