@@ -3,12 +3,10 @@
 # This is a tricky problem. You need to initialize and keep track of 2 
 # previous values.
 
-# next number is found by adding up the 2 numbers before it
-
 f1 = -1
 f2 = 1
 for i in range(10):
 	f3 = f1 + f2
-	print(f3)
 	f1 = f2
 	f2 = f3
+	print(f3)
