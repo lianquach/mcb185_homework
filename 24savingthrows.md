@@ -1,5 +1,4 @@
-### Make a table of showing the probability of success normally, with 
-advantage, and with disadvantage ###
+### Make a table of showing the probability of success normally, with advantage, and with disadvantage ###
 
 | DC | Normal   | Advantage | Disadvantage |
 |----|----------|-----------|--------------|
