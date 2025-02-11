@@ -45,6 +45,7 @@ def adv(dc):
 		if roll >= dc: success += 1
 	return success / trials
 
+# disadvantage rolls 
 def disadv(dc):
 	success = 0
 	for i in range(trials):
@@ -54,7 +55,7 @@ def disadv(dc):
 
 print("DC", "Normal", "Advantage", "Disadvantage", sep='\t')
 print('5', normal(5), adv(5), disadv(5), sep ='\t' )
-print('10', normal(5), adv(5), disadv(5), sep ='\t' )
-print('15', normal(5), adv(5), disadv(5), sep ='\t' )
+print('10', normal(10), adv(10), disadv(10), sep ='\t' )
+print('15', normal(15), adv(15), disadv(15), sep ='\t' )
 
 	
