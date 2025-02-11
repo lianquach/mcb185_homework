@@ -52,9 +52,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Thursday
 	+ **Total = 3 points**
 - Week 5
-	+ Attended class Tuesday
+	+ Didn't attend class on Tuesday to save you from getting sick
 	+ Assessed for Unit 1 with Michelle 
+	+ Attended class on Thursday 
+	+ Helped a classmate troubleshoot their 24savingthrows.py program
+	+ **Total = 4 points**
 - Week 6
+	+ Attended class Tuesday
+	+ Assessed in class for Unit 2 
 - Week 7
 - Week 8
 - Week 9
