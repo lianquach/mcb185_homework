@@ -59,8 +59,15 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ **Total = 4 points**
 - Week 6
 	+ Attended class Tuesday
+	+ Asked a classmate for help on debugging my 25deathsaves.py program
 	+ Assessed in class for Unit 2 
+	+ Helped a classmate remove a file off Github
+	+ Attended class Thursday
+	+ **Total = 5 points**
 - Week 7
+	+ Attended class Tuesday 
+	+ Attended class Thursday 
+	+ 
 - Week 8
 - Week 9
 - Week 10
