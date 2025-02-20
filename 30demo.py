@@ -135,4 +135,3 @@ print(sys.argv) # printed name of program
 i = int('42')
 x = float('0.61803')
 print(i * x)
-x = float('hello')
