@@ -15,12 +15,12 @@ import mcb185
 w = int(sys.argv[2]) # window size
 ent = float(sys.argv[3]) # entropy threshold 
 
-def entropy(sequence):
+def entropy(seq):
 	hval = 0.0
-	a = sequence.count('A') / len(seq)
-	c = sequence.count('C') / len(seq)
-	g = sequence.count('G') / len(seq)
-	t = sequence.count('T') / len(seq)
+	a = seq.count('A') / len(seq)
+	c = seq.count('C') / len(seq)
+	g = seq.count('G') / len(seq)
+	t = seq.count('T') / len(seq)
 	
 	for prob in [a, c, g, t]:
 		if prob != 0:
