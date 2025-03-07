@@ -12,37 +12,33 @@ import sys
 import math
 import mcb185
 
-fas = sys.argv[1]
 w = int(sys.argv[2]) # window size
 ent = float(sys.argv[3]) # entropy threshold 
 
-def entropy(seq):
+def entropy(sequence):
 	hval = 0.0
-	total = len(seq)
-	a = seq.count('A') / total
-	c = seq.count('C') / total
-	g = seq.count('G') / total
-	t = seq.count('T') / total
+	a = sequence.count('A') / len(seq)
+	c = sequence.count('C') / len(seq)
+	g = sequence.count('G') / len(seq)
+	t = sequence.count('T') / len(seq)
 	
 	for prob in [a, c, g, t]:
 		if prob != 0:
 			hval -= prob * math.log2(prob)
 	return hval 
 
-for defline, seq in mcb185.read_fasta(fas):
+for defline, seq in mcb185.read_fasta(sys.argv[1]):
 
-	dust = list(seq)
+	mask = list(seq) # converts nucs into list
 	
 	for i in range(len(seq) - w + 1):
-		dna = seq[i:i+w]
-		hval = entropy(dna)
-		if hval < ent:
+		win = seq[i:i+w]
+		if entropy(win) < ent:
 			for j in range(i, i + w):
-				dust[j] = 'N'
+				mask[j] = 'N'
 		
 	print('>', defline, sep='')
-	seq = ''.join(dust)
+	mask = ''.join(mask)
 	
 	for i in range(0, len(seq), 60):
-		print(seq[i:i+60])
-	
+		print(mask[i:i+60])
