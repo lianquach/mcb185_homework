@@ -55,7 +55,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't attend class on Tuesday to save you from getting sick
 	+ Assessed for Unit 1 with Michelle 
 	+ Attended class on Thursday 
-	+ Helped a classmate troubleshoot their 24savingthrows.py program
+	+ Helped a classmate debug their 24savingthrows.py program
 	+ **Total = 4 points**
 - Week 6
 	+ Attended class Tuesday
@@ -67,7 +67,21 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 7
 	+ Attended class Tuesday 
 	+ Attended class Thursday 
-	+ 
+	+ Assessed in class for Unit 3
+	+ Introduced myself to someone I didn't know in class
+	+ Helped a classmate debug their 31entropy.py program 
+	+ **Total = 5 points**
 - Week 8
+	+ Attended class Tuesday 
+	+ Asked a classmate about the purpose of +1 when calculating CDS length
+	+ Attended class Thursday 
+	+ Helped a classmate debug their 35scoringmatrix.py program
+	+  **Total = 4 points**
 - Week 9
+	+ Attended class Tuesday 
+	+ Helped a classmate debug their 45colorname.py program
+	+ Attended class Thursday 
+	+ Asked a classmate for help on debugging my 46dust.py program
+	+ Other: met up with a classmate outside of class to work on Unit 4
+	+  **Total = 5 points**
 - Week 10
