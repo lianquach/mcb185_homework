@@ -5,9 +5,9 @@ import math
 parser = argparse.ArgumentParser(description='DNA entropy filter.')
 parser.add_argument('file', type=str, help='name of fasta file')
 # -- changes them to named parameters & can appear in any order
-parser.add_argument('s', '--size', type=int, default=20, 
+parser.add_argument('-s', '--size', type=int, default=20, 
 	help='window size [%(default)i]')
-parser.add_argument('e', '--entropy', type=float, default=1.4, 
+parser.add_argument('-e', '--entropy', type=float, default=1.4, 
 	help='entropy threshold [%(default).3f]')
 parser.add_argument('--lower', action='store_true', help='soft mask')
 parser.add_argument('--wrap', type=int, default=60)
