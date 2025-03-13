@@ -76,12 +76,20 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Asked a classmate about the purpose of +1 when calculating CDS length
 	+ Attended class Thursday 
 	+ Helped a classmate debug their 35scoringmatrix.py program
-	+  **Total = 4 points**
+	+ **Total = 4 points**
 - Week 9
 	+ Attended class Tuesday 
 	+ Helped a classmate debug their 45colorname.py program
 	+ Attended class Thursday 
 	+ Asked a classmate for help on debugging my 46dust.py program
 	+ Other: met up with a classmate outside of class to work on Unit 4
-	+  **Total = 5 points**
+	+ **Total = 5 points**
 - Week 10
+	+ Attended class Tuesday
+	+ Assessed in class for Unit 4
+	+ Other: met up with a classmate outside of class to work on Unit 5
+	+ Asked a classmate for help on debugging my 55genefinder.py program
+	+ Helped a classmate debug their 47cdsfinder.py
+	+ **Total = 5 points**
+
+**Final Total = 4.4 points**
